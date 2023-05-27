@@ -1,6 +1,8 @@
 from random import choices, shuffle
 from os import system, name
 
+# I'm here to check my GitHub's skill
+
 SUITS = ("Hearts", "Diamonds", "Spades", "Clubs")
 RANKS = (
     "Two",
